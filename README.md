@@ -1,10 +1,12 @@
 # Link-Saver 
-My Link Saver is based on JavaScript. It is basically a chrome Extension that helps the user to store important Links for them to use later. It is helpful for people who don't want to open numerous tabs and can just save the webpage links to use afterwards.
+The My Link Saver tool is built using JavaScript and serves as a Chrome extension that enables users to save crucial web links for future reference. It's beneficial for individuals who prefer to avoid having numerous tabs open and instead, opt to save the page links for later use.
 ###### View Link: https://khuzaimax.github.io/Link-Saver/
 # Functionality:
-- The extension is able to store links and it won't delete until we do it by ourselves
-- Can directly save the Links of webpage by simply clicking on the Save Url button
-- Is in extension form so the user can simply open through extension tab
-- User can copy and paste links through given bar and can save through save input btn
-- Has a Delete/Save URL/Save Input  buttons
-- Easy to use and understand 
+-The extension allows for organized storage of important web links for future reference
+-No need to worry about losing track of important webpages as they can all be saved and accessed in one place
+-Saves time by eliminating the need to search for previously visited webpages
+-User-friendly design makes it easy for individuals with little to no technical knowledge to use and understand
+-The "Save URL" button offers a quick and convenient way of saving web links while browsing
+-The designated input bar and "Save Input" button allow for manual addition of links to the collection
+-The "Delete" button provides the option to remove links that are no longer needed or relevant
+-The extension provides a clean and efficient solution for keeping track of important web links
